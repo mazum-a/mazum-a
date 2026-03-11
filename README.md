@@ -1,4 +1,4 @@
-## Hi there, I'm Arya 👋
+## Hi there, I'm a 👋
 - 🔭 I’m currently working on Nexo, my own version of a messaging platform with my friends, it shares personalities from both WhatsApp and Discord
 - 🌱 I’m currently learning Python and soon, GoLang
 - 💬 Ask me about: html5, css3 and a little bit of python.
